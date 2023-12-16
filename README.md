@@ -2,9 +2,10 @@
 
 
 
-- 🔭 Atuo como Analista de QA/Automação de testes com RobotFramework
-- 📚 Estudo Automação de Teste de Software: RobotFramework, Ruby
-- 📚 Estudo: Testes de Software(estratégia, tipos, modelagem, arquitetura), Python, Ruby
+- 🔭 Atuo como Analista de QA/Automação - com RobotFramework | C# com Selenium | Botcity
+- 📚 Formação: Analise e Desenvolvimento de Sistemas
+- 📚 Pós-graduação: Engenharia de Software com Ênfase em Qualidade e Teste
+- ✔ Experiência: Testes de Software(estratégia, tipos, modelagem, arquitetura), Python, Ruby
 - 📫 Contate-me no email: carloslimafernandes@hotmail.com
 
 <div align="center">
