@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atuo como Analista de QA/Automação - com RobotFramework | C# com Selenium | Botcity
+- 🔭 Atuo como Analista de QA/Automação - C# com Selenium | Botcity | com RobotFramework | CI/CD Jenkins .Grovvy
 - 📚 Formação: Analise e Desenvolvimento de Sistemas
 - 📚 Pós-graduação: Engenharia de Software com Ênfase em Qualidade e Teste
 - ✔ Experiência: Testes de Software(estratégia, tipos, modelagem, arquitetura), Python, C# e Robotframework
