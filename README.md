@@ -1,4 +1,4 @@
-### Hi, I'm Carlos L. Fernandes 👋
+### Carlos L. Fernandes 👋
 
 
 
