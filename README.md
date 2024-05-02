@@ -8,9 +8,11 @@
 - ✔ Experiência: Testes de Software(estratégia, tipos, modelagem, arquitetura), Python, C# e Robotframework
 - 📫 Contate-me no email: carloslimafernandes@hotmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Carlos77-code">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos77-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos77-code&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
